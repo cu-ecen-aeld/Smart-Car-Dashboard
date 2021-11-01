@@ -4,7 +4,7 @@ This repository contains the final project submissions made by Saloni Shah and M
 **Overview of the repository**
 This repository contains the Application Source Code for RPI for the final project.<br>
 [Project Overview](https://github.com/cu-ecen-aeld/final-project-saloni1307/wiki/Project-Overview)<br>
-[Schedule] (https://github.com/cu-ecen-aeld/final-project-saloni1307/wiki/Schedule)<br>
-[Saloni's Repository] (https://github.com/cu-ecen-aeld/final-project-saloni1307)<br>
-[Michelle's Repository] (https://github.com/cu-ecen-aeld/final-project-Mich2899)<br>
-[Shared Repository] (https://github.com/cu-ecen-aeld/project-mich-saloni-shared)<br>
+[Schedule](https://github.com/cu-ecen-aeld/final-project-saloni1307/wiki/Schedule)<br>
+[Saloni's Repository](https://github.com/cu-ecen-aeld/final-project-saloni1307)<br>
+[Michelle's Repository](https://github.com/cu-ecen-aeld/final-project-Mich2899)<br>
+[Shared Repository](https://github.com/cu-ecen-aeld/project-mich-saloni-shared)<br>
