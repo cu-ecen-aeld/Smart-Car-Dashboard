@@ -1,7 +1,7 @@
-# ECEN 5713 AESD - Final Project Repository
-Owner of the Repository - Michelle Christian (GitHub ID: Mich2899)
+# ECEN 5713 AESD - Final Project Repository<br>
+Owner of the Repository - Michelle Christian (GitHub ID: Mich2899)<br>
 This repository contains the final project submissions made by Saloni Shah and Michelle Christian for the ECEN 5713 AESD (Fall21) class.<br>
-**Overview of the repository**
+**Overview of the repository**<br>
 This repository contains the Application Source Code for RPI for the final project.<br>
 [Project Overview](https://github.com/cu-ecen-aeld/final-project-saloni1307/wiki/Project-Overview)<br>
 [Schedule](https://github.com/cu-ecen-aeld/final-project-saloni1307/wiki/Schedule)<br>
