@@ -1,5 +1,4 @@
 #import required libraries
-pip install obd
 import obd
 #establish a connection with the OBD device
 connection = obd.OBD()
