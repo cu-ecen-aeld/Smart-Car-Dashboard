@@ -3,7 +3,7 @@
 case "$1" in
         start)
                 echo "Adjusting date"
-                start-stop-daemon -S -n setdate.sh -a /usr/bin/setdate.sh 
+                start-stop-daemon -S -n setdate.sh -a /usr/bin/setdate.sh -- 20211120 12:23
                 ;;
 
         stop)
