@@ -4,7 +4,7 @@ import obd
 pygame.init()
 #connection = obd.OBD()
 #connect = obd.Async(fast=False)
-screen = pygame.display.set_mode((0,0),pygame.FULLSCREEN)
+screen = pygame.display.set_mode((500,500),RESIZABLE)
 screen_w = screen.get_width()
 screen_h = screen.get_height()
 circle_y = screen_h/2
