@@ -1,7 +1,7 @@
 CROSS_COMPILE=
 
 ifeq ($(CC),)
-	CC=arm-unknown-linux-gnueabi-gcc
+	CC=$(CROSS_COMPILE)gcc
 endif
 
 ifeq ($(CFLAGS),)
