@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # Original Code: https://gist.github.com/Lauszus/5785023#file-gps-py
-# Created by: Kristian Sloth Lauszus
 
 import time
 import serial
